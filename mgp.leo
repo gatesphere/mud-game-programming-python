@@ -10,9 +10,18 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="peckj.20130406134227.1554"><vh>NewHeadline</vh></v>
+<v t="peckj.20130406134227.1554" a="E"><vh>chapter02</vh>
+<v t="peckj.20130406215148.1557" a="E"><vh>demo_2.1</vh>
+<v t="peckj.20130406215148.1558"><vh>@edit chapter02/demo_2.1/helloserver.py</vh></v>
+</v>
+<v t="peckj.20130406215148.1559" a="E"><vh>demo_2.2</vh>
+<v t="peckj.20130406215148.1560"><vh>@edit chapter02/demo_2.2/helloclient.py</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="peckj.20130406134227.1554"></t>
+<t tx="peckj.20130406215148.1557"></t>
+<t tx="peckj.20130406215148.1559"></t>
 </tnodes>
 </leo_file>
